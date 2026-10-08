@@ -58,7 +58,7 @@ The transformed experimental data were analyzed to investigate the effects of:
 
 ## Files
 
-* **`catapult.py`** — Python code used for the experimental data analysis.
+* **`finalproj.py`** — Python code used for the experimental data analysis.
 * **`report/Wren_Nicol_Final_Report.pdf`** — Full report describing the experiment, analysis, results, and conclusions.
 * **`report/catapult_report.tex`** — LaTeX source for the report.
 
